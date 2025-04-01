@@ -7,5 +7,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - PHP
 - MySQL
-- Apache
+- Alojamento gratis
 
