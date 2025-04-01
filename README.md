@@ -8,4 +8,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - PHP
 - MySQL
 - Apache
-https://profile-readme-generator.com/
+
